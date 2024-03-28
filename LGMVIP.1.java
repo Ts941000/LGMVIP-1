@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class LGMVIP.1 {
+
+public class LGMVIP1{
 
 	static String[] board;
 	static String turn;
@@ -168,3 +169,4 @@ public class LGMVIP.1 {
 	in.close();
 	}
 }
+
