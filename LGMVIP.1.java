@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class project1 {
+public class LGMVIP.1 {
 
 	static String[] board;
 	static String turn;
